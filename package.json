@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "jsdoc": "~3.2.2",
-    "ink-docstrap": "~0.4.5"
+    "ink-docstrap": "https://github.com/Limecraft/docstrap/tarball/1.1.4-limecraft"
   },
   "peerDependencies": {
     "grunt": "~0.4.0"
